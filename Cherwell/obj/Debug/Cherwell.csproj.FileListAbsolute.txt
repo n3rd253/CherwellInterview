@@ -1,0 +1,6 @@
+C:\Development\Cherwell\Cherwell\bin\Debug\Cherwell.exe.config
+C:\Development\Cherwell\Cherwell\bin\Debug\Cherwell.exe
+C:\Development\Cherwell\Cherwell\bin\Debug\Cherwell.pdb
+C:\Development\Cherwell\Cherwell\obj\Debug\Cherwell.csprojResolveAssemblyReference.cache
+C:\Development\Cherwell\Cherwell\obj\Debug\Cherwell.exe
+C:\Development\Cherwell\Cherwell\obj\Debug\Cherwell.pdb
